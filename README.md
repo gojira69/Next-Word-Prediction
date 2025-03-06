@@ -18,7 +18,7 @@ This repository contains a language modeling project using Feedforward Neural Ne
 
    ```bash
    https://github.com/gojira69/Next-Word-Prediction.git
-   cd your-repo
+   cd Next-Word-Prediction
    ```
 
 2. Install dependencies:
