@@ -33,7 +33,7 @@ This repository contains a language modeling project using Feedforward Neural Ne
 Run the script interactively:
 
 ```bash
-python generator_clean.py
+python generator.py
 ```
 
 Follow the prompts:
